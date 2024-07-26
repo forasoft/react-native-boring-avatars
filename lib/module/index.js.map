@@ -1,0 +1,1 @@
+{"version":3,"sources":["index.js"],"names":["Avatar"],"mappings":"AAAA,OAAOA,MAAP,MAAmB,yBAAnB;AAEA,eAAeA,MAAf","sourcesContent":["import Avatar from './lib/components/avatar';\n\nexport default Avatar;\n"]}
